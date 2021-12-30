@@ -34,13 +34,13 @@ layout: page
 </div>
 
 <p>
-This product was created with collaboration with the Credit Research Initiative (<a href="https://nuscri.org/en/">CRI</a>), which is part of the National University of Singapore (NUS).
-We used their database contatining daily Probability of Default (PD) data for all listed companies and mapped it to the bonds issues by those corporates.
-This allowed us to distribute their data in our system and build additional analytics on top.
+This product was created in collaboration with the Credit Research Initiative (<a href="https://nuscri.org/en/">CRI</a>), which is part of the National University of Singapore (NUS).
+We used their database containing daily Probability of Default (PD) data, which we mapped to the bonds issued by those companies.
+This allowed us to distribute their data in our system and build additional analytics.
 </p>
 
 <p>
-The analytics we developed used binomial option pricing method, with the option being the default event, hence creating default adjusted cashflows.
+The analytics we developed used the binomial option pricing method, with the option being the default event, hence creating default adjusted cashflows.
 These cashflows were the base for the analytics. The notable analytics were Default Adjusted Spread and Default Adjusted Yield.
 </p>
 
