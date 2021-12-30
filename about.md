@@ -12,7 +12,7 @@ I believe that kickstarted my passion for merging my technical and social skills
 </p>
 
 <p>
-Recently I have started full-time as part of <a href="https://www.yieldbook.com/">The Yield Book</a>, an LSEG company, in the Product Management team leading the European ABS Product initiative.
+Recently, I have started full-time at <a href="https://www.yieldbook.com/">The Yield Book</a>, an LSEG company, as part of the Product Management team leading the European ABS Product initiative.
 My main responsibility is to interact with all internal and external stakeholders in order to expand our advanced securitised analytics to the global market.
 Some notable achievements of the last year are:  
 </p>
