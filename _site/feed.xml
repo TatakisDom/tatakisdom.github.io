@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-30T18:34:52+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dominic Tatakis</title><subtitle>A Product Manager focusing on European Securitised market, based in London.</subtitle><entry><title type="html">Liberty Cars - Iteration 2</title><link href="http://localhost:4000/liberty-cars-v2-overview/" rel="alternate" type="text/html" title="Liberty Cars - Iteration 2" /><published>2020-10-01T22:10:00+03:00</published><updated>2020-10-01T22:10:00+03:00</updated><id>http://localhost:4000/liberty-cars-v2-overview</id><content type="html" xml:base="http://localhost:4000/liberty-cars-v2-overview/">&lt;p&gt;As of early 2020, the AWS lambdas I was using for version one where being decommissioned due to Node 8 EOL.  Plus several other technologies I was used were way out of date. So in April 2020 I decided to simplify the website.&lt;/p&gt;
+
+&lt;p&gt;The site does not actually do any business, its primarily my testing ground website / domain. 
+For this reason I decided to a make it a static website and deploy it with &lt;a href=&quot;https://netlify.com&quot;&gt;Netlify&lt;/a&gt;.
+I loved it, super simple and the generation of the website with Jekyll was a few hours work. The website lost a lot of its functionality that had all the advanced technical features and the technical debt, but I decided it was not needed. It only added complexity at this point and stress. 
+Instead I experimented with static website form submission systems that send emails if actually used. Just in case some person is actually interested. In the months is been live only a few bots have actually got through the form. ✌️&lt;/p&gt;
+
+&lt;p&gt;For example some of the functionality it lost:&lt;/p&gt;
+
+&lt;p&gt;The old homepage:
+&lt;img src=&quot;/assets/images/libertycars/home.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The old date range selection:
+&lt;img src=&quot;/assets/images/libertycars/select.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The old booking page:
+&lt;img src=&quot;/assets/images/libertycars/book.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As always I will admit my frontend skills are not the best. I am a Full Stack Engineer that focuses on DevOps and Backend work, that can change a CSS colour if needed 🤓&lt;/p&gt;
+
+&lt;p&gt;Check out the new &lt;a href=&quot;https://www.libertycars.gr&quot;&gt;liberty cars here&lt;/a&gt;.&lt;/p&gt;</content><author><name>LefterisTatakis</name></author><category term="project" /><category term="Jekyll" /><category term="netlify" /><summary type="html">As of early 2020, the AWS lambdas I was using for version one where being decommissioned due to Node 8 EOL. Plus several other technologies I was used were way out of date. So in April 2020 I decided to simplify the website.</summary></entry><entry><title type="html">Ironman Italy</title><link href="http://localhost:4000/ironman-italy/" rel="alternate" type="text/html" title="Ironman Italy" /><published>2019-09-24T14:30:00+03:00</published><updated>2019-09-24T14:30:00+03:00</updated><id>http://localhost:4000/ironman-italy</id><content type="html" xml:base="http://localhost:4000/ironman-italy/">&lt;p&gt;&lt;img style=&quot;float: right;&quot; src=&quot;/assets/images/ironman/ironmanLogoItaly.png&quot; /&gt;
+The race I had trained for a year, but was dreaming of getting there for 5.
+It was finally here. I was going to do an ironman race, and try and get the title of Ironman.
+I was as ready as I could have been for this round.&lt;/p&gt;
+
+&lt;p&gt;The TL;DR version of below is as follows:
+I pushed my limit, finished the bike before the cut off, did half the marathon.
+I had to quit due to really back stomach issues, which I had for at least 8 hours of the race.
+Even though DNFing was a horrible feeling, I have a lot to be proud of. I pushed my limit, and expended it.
+I will be back one day to finish the job.&lt;/p&gt;
+
+&lt;h2 id=&quot;race--transition-prep&quot;&gt;Race / Transition prep&lt;/h2&gt;
+&lt;p&gt;Prior to an Ironman race, you need to prepare three bags, that will contain all your gear and extra nutrition you might need during the race.
+Below, I have included some photos of what I packed in with some information about the setting.&lt;/p&gt;
+
+&lt;p&gt;The bike bag:
+&lt;img src=&quot;/assets/images/ironman/BikeBag.jpeg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;The Bike Bag&lt;/figcaption&gt;
+&lt;p&gt;Contained bike shoes, nutrition bars, bike shoes, antihistamine gel (incase of jelly fish), sun cream, HR monitor and the number.&lt;/p&gt;
+
+&lt;p&gt;During the bike course you can provide some nutrition or special needs bag that you might need.
+I chose to include a bottle with some Precision Hydration 1000 salts, gels, and some walker crisps if I really needed something salty after all the sugar I would be eating that day.
+&lt;img src=&quot;/assets/images/ironman/emergencyNeedsBike.jpeg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Emergency needs on the Bike&lt;/figcaption&gt;
+
+&lt;p&gt;The run bag contained: run shorts, run t-shirt, belt with energy gels and water bottles ( with SIS energy in), crisps again, and vasiline.
+&lt;img src=&quot;/assets/images/ironman/RunBag.jpeg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Run transition bag&lt;/figcaption&gt;
+
+&lt;p&gt;This is the gear I needed to put on just before I got into the water for the swim.
+My bike bib shorts, wet suit, googles (with a spare), baby oil for wet suit, cap and numbers.
+&lt;img src=&quot;/assets/images/ironman/StartKit.jpeg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Start kit - for pre swim&lt;/figcaption&gt;
+
+&lt;h2 id=&quot;the-swim&quot;&gt;The Swim&lt;/h2&gt;
+&lt;p&gt;It was a beautiful morning! The sea was calm, the sun was up, the breeze was cool! 
+The day I was training for was finally here!&lt;/p&gt;
+
+&lt;p&gt;Ironman knows how to pump you up and through on a show on race morning, it was amazing.&lt;/p&gt;
+
+&lt;p&gt;Pumped up and ready to go, through the rolling start, I get in the water towards the end of the pack and start swimming. I felt strong.
+All the rest and tapering had been good for me.
+I was overtaking a lot of people. I had seeded myself at 1:20-1:30, but I must have over took at least 50-100 people.&lt;/p&gt;
+
+&lt;p&gt;As always with a triathlon swim, it was brutal. Kicking, punching, crashing into people and for a first time jelly fish.
+I got stung on the neck by one. Initially I did not know why my neck hurt so much, but after a few minutes I realised what it was.
+Followed by a huge jelly fish, the side of a football, hitting my chest and luckily rolling of the wetsuit. I have to admit I was not a fan of that point, but it is definitely an interesting memory!&lt;/p&gt;
+
+&lt;p&gt;Luckily those where the only two encounters I had, however, I was not planning on seeing any others. I put the hammer down, I wanted out of the water. I did not want to get stung again.
+I focused on the 1,5km left and got out of the water on a wooping 1:13! I was super chuffed! I had done good!&lt;/p&gt;
+
+&lt;h2 id=&quot;bike&quot;&gt;Bike&lt;/h2&gt;
+&lt;p&gt;The race was officially on!
+Got the bike, saw Rachel, and off I went. After a year of training specifically for this bike leg, I was about to undertake the 112 mile course.
+I had ridden 81 miles before, but never more than that, today was the day I would do it.&lt;/p&gt;
+
+&lt;p&gt;On the first 5km I saw a couple of accidents and flat tires, the main one I keep thinking about it two time trials colliding somehow, a Russian lady and an Italian man. 
+Down the road, told the police about the accident and kept pedaling.
+I had to keep out of trouble, don’t make unnecessary risks and race &lt;em&gt;my&lt;/em&gt; race.&lt;/p&gt;
+
+&lt;p&gt;Finished by SIS energy bottle by the first 30km, and had my other SIS bottle with half of my Precision Hydration 1000 electrolytes.
+At the aid station I took a Enervit ISO bottle, and thanked my favourite SIS bottle that got me that far ( over the last 2 years ) just before I let it go.&lt;/p&gt;
+
+&lt;p&gt;It was mid-day, temperature around 22-24 degrees, when I got the the Aid station in Forlimpopoli. Got a bottle of water and raced on, ready to tackle the first of two loops of the Bertinoro climb.
+Half way up, the heat really started to hit me, I was starting panting and sweating. A few people were even pushing there bike up the hill.
+At that point, I started feeling my belly hurt, something I had experienced in the heat before in training doing Brill.
+I thought “its just the heat and the hill toughness it will go away after this”, so I took my bottle and drank a bit, but then I noticed my second bottle was empty.. I had forgotten to take two bottles at the aid station!! “Fuck”, I thought.&lt;/p&gt;
+
+&lt;p&gt;The belly did not get better after the climb, it was only getting worse.
+Each time I tried to take a sip of water or god forbid the Enervit ISO, it got much much worse.
+At the aid stations that had cold water, I would pour one bottle, over my head and the back of my neck, put 2 bottles on my lower back muscles, and took 2 more for the ride. I was desperate to cool my core temperature and stop this pain.
+The pain was not going away. During kilometers 70 to 170 it was tough, I managed to get moment of none pain, and pushed a bit but the pain would come back the minute I took some nutrition on.&lt;/p&gt;
+
+&lt;p&gt;I was slowly getting there though. I had 4,5 hours left to get to T2 and I would use everything I had in me to get there.&lt;/p&gt;
+
+&lt;p&gt;That is exactly what I did. I pushed through the dark times, the pain, the wind, the heat, and forced myself to focus on that T2.
+I was one of the last people of the bike, but I didn’t care, I needed to start the run.
+For all the rest of the race I was 21-23 km/hr, while, for the last 3 kilometers I averaged 26-27km per hour on the flats, and I got there! 
+My biggest fear of not making the bike cut off did not happen!! I was so relieved.&lt;/p&gt;
+
+&lt;p&gt;I hadn’t had a flat, I hadn’t bonked and I was able to start the run.&lt;/p&gt;
+
+&lt;p&gt;However, the belly pain was not going away.&lt;/p&gt;
+
+&lt;h2 id=&quot;run&quot;&gt;Run&lt;/h2&gt;
+&lt;p&gt;I was hoping with some coke and water the stomach issues would go away.
+Unfortunately, they did not, it was only made worse. 
+Each time I tried to get some nutrition down me, I was sick.
+Nothing stayed down, not even water.
+At Kilometer 15 I started feeling hazy and slowly bonking, so I forced a gel down me, to try and stay in the race.
+But 5 km down the road that came out… I would have to do 24km in 2:30 hours, in order to finish before the cut off.
+Thats when I did the &lt;em&gt;DNF&lt;/em&gt; - &lt;em&gt;did not finish&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-dnf&quot;&gt;The DNF&lt;/h3&gt;
+&lt;p&gt;It was the hardest decision I had to make. The math did not lie. Given my physical situation with my stomach
+and that I could not run more than 3 meters. It was horrible, sitting on the bench next to my girlfriend, deciding that I would call it a day. Rachel, my girlfriend, had helped me through the run at moments with cheering me on and being positive.
+However, after kilometer 10, my body was not responding well even walking, but I tried and did another 10km… but you cant do a marathon without any nutrition or carbs to fuel you…&lt;/p&gt;
+
+&lt;p&gt;The forth discipline of an Ironman is nutrition, it really is.&lt;/p&gt;
+
+&lt;p&gt;I went to transition, picked up my bike and bags, and called it a day.&lt;/p&gt;
+
+&lt;p&gt;I have learned a lot about myself, my limits, what I can do and about the sport.
+Given this experience, next time (because there will be a next time, maybe not in 2020 but sometime in the future) I will once again give it everything I have, just like I did in Italy, and become an Ironman.&lt;/p&gt;
+
+&lt;p&gt;Each Ironman race and journey is different. Each one has will have its ups and downs. I am sure the next one will be as tough or tougher, but so will I.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-special-thank-you-to-all-the-people-that-helped-me&quot;&gt;A special thank you to all the people that helped me&lt;/h2&gt;
+
+&lt;p&gt;Ironman is not a solitary endeavor. 
+Yes, you train and push your limits by yourself.
+But family, friends, partners, colleagues, club members, physios, bike fitters etc all help you along the way. All support you in there own way!&lt;/p&gt;
+
+&lt;p&gt;I would like to thank:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Rachel for always being there during the ups, the downs and the wobbles. Supporting me before, during, and after the race, and being a beacon of positivity when I needed it the most.&lt;/li&gt;
+  &lt;li&gt;my family for always believing in me and giving me the support to push ahead.&lt;/li&gt;
+  &lt;li&gt;Kostas for mentoring, guiding, and helping me keep my calm during the hard sessions, races and preparation to this race.&lt;/li&gt;
+  &lt;li&gt;my colleagues from Elsevier that supported me and believed in me.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thank you for reading! 👋&lt;/p&gt;
+
+&lt;p&gt;If you notice any mistakes please contact me on &lt;a href=&quot;https://twitter.com/LTatakis&quot;&gt; Twitter&lt;/a&gt;.&lt;/p&gt;</content><author><name>LefterisTatakis</name></author><category term="blog" /><category term="ironman" /><category term="result" /><category term="update" /><category term="bike" /><category term="race" /><summary type="html">The race I had trained for a year, but was dreaming of getting there for 5. It was finally here. I was going to do an ironman race, and try and get the title of Ironman. I was as ready as I could have been for this round.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/ironman/ironmanLogoItaly.png" /></entry><entry><title type="html">Ironman Training - the journey so far</title><link href="http://localhost:4000/ironmanjourneysofar/" rel="alternate" type="text/html" title="Ironman Training - the journey so far" /><published>2019-05-11T12:30:00+03:00</published><updated>2019-05-11T12:30:00+03:00</updated><id>http://localhost:4000/ironmanjourneysofar</id><content type="html" xml:base="http://localhost:4000/ironmanjourneysofar/">&lt;p&gt;Ironman Frankfurt is no more on the plan for me.&lt;/p&gt;
+
+&lt;p&gt;Ironman Italy is where its at!&lt;/p&gt;
+
+&lt;p&gt;After doing my first 80 mile bike ride in &lt;a href=&quot;https://www.strava.com/activities/2289612111&quot;&gt;New Forest&lt;/a&gt; in March I realised that I would not be fast enough for the 112 miles bike ride in Frankfurt, I would really need to push myself to meet that deadline and there was a huge chance I would go through to do the second loop and be told I cannot continue.
+Not one wants to invest all that money, time, sweat, tears and blood to not at least have the opportunity to go all the way!
+In conjunction with the fast that the race is only 15 hours long, I had to make the choice:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;have a really stressed panicked few months with the possibility of not getting to the finish line&lt;/li&gt;
+  &lt;li&gt;change / postpone the race till later in the season.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In a panicked state on the night after the 80 mile ride, I decided to look for another opportunity if possible.
+I messaged Kostas, my colleague that is my Coach on this journey to be an Ironman, we call him Koachstas,
+and we found two possibilities: Ironman Barcelona or &lt;a href=&quot;http://eu.ironman.com/triathlon/events/emea/ironman/emilia-romagna.aspx&quot;&gt;Ironman Emilia Romagna&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I decided to sleep on it and see what happens.
+Luckily the 80 mile ride was early on the schedule and I was still in the window to allow change of race for the fee of 48 pounds.
+The next day I was convinced that was the right thing to do. I started the process ASAP and also starting looking  for flights and stay etc.
+There would be a bit of a hit on my wallet. Maybe a bit more than a bit actually. But it was what needed to happen in order to allow the possibility of becoming an Ironman.
+So it was back to the drawing board. 
+There have been quite a few downs in the past couple of months:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hay-fever was in full swing from Feb to the beginning of May. (must be the tree pollen)&lt;/li&gt;
+  &lt;li&gt;Late Winter illness swept the office in March. Got his quite bad from that.&lt;/li&gt;
+  &lt;li&gt;Injury of my left hamstring after a ride with Andy Clyde up the Christmas Common Hill.&lt;/li&gt;
+  &lt;li&gt;Shoulder issues after the 80 miles causing a need to re-evaluate the fit with Bryan.&lt;/li&gt;
+  &lt;li&gt;This last week my right hamstring is currently having issues. Possibly tendonopathy due to some weird reason… not sure why. Current thing I am dealing with. I am seeing my Physio Dominic next week to see what can be done and if I can race next weekend.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I have my first Olympic race next weekend and I would like to be on the start line, and finish without causing injuries.&lt;/p&gt;
+
+&lt;p&gt;After meeting Bryan today for a bike fit, I said “I enjoy the learning of the bike fit and my body, but I just want to be on the road” I miss the ride and the running!
+I want to stop being injured constantly, have the fitness to push and exercise!&lt;/p&gt;
+
+&lt;p&gt;What I have been coming to realise in the last few hours though, that this is the &lt;em&gt;journey&lt;/em&gt;! This is what is going to make the Ironman race worth it.
+Focusing on my health and ensuring I get to the start line, do my best and hopefully finish is what all this about! There is a lot of pain involve but it will make me stronger, and it is something I really want.&lt;/p&gt;
+
+&lt;p&gt;I am luckily to have such a great group of people around me to support me and help me get through these hard times. I have loving and understanding girlfriend, colleagues that focus on getting me there, friends that are willing to ride with me at times and professional people that can guide me when I am a bit injured or gone to far.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-plan-and-monitoring-fitness&quot;&gt;The plan and monitoring fitness&lt;/h2&gt;
+&lt;p&gt;Since taking the foot of the Gas I have been starting to re-evaluate a few things:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;the cost of Training Peaks&lt;/li&gt;
+  &lt;li&gt;the sessions I need to do (once my body lets me)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;move-off-training-peaks-temporary-due-to-huge-expense-it-is&quot;&gt;Move off training peaks temporary due to huge expense it is.&lt;/h3&gt;
+&lt;p&gt;Starting with Training Peaks.
+Training Peaks is a great planning tool and a great weapon in the armory to plan the season. But its so expensive! After being on it a year or two I was starting to way 60 quid a quarter to a software to give me a timeline of my fitness and fatigue over time!
+So I started looking at other options to do it cheaper or even for free!&lt;/p&gt;
+
+&lt;p&gt;The choice was &lt;a href=&quot;https://thomaschampagne.github.io/elevate/#/landing&quot;&gt;Elevate&lt;/a&gt; the chrome extension in conjunction with the Strava Summit section for power.
+I had compared the result of Training peaks with the result of Elevate, and they were identical! To the extent I care about at least. Its an open source tool that pools all the Strava sessions and calculates the same graph as Training peaks. 
+Training peaks does allow planning in advance, but once you have that why pay 11 extra months?!
+Strava Summit I am warming up to, I like the fitness graph and some of the extra analysis it provides on my runs and rides.
+I am not 100% on it but will try it out. For the power reading its only 18 quid a year I think? 
+So we shall see.&lt;/p&gt;
+
+&lt;p&gt;Another tool I am currently trying to get my head round is &lt;a href=&quot;https://www.xertonline.com/&quot;&gt;Xert&lt;/a&gt;. I am not about this yet.. I don’t understand what all the &lt;em&gt;different&lt;/em&gt; set of numbers mean… It just so different from everything else.
+Currently, the arrow on the dashboard keeps telling me I am “falling behind” which I can believe, but the issue is it has not idea what event I am doing. It just knows I am doing an event in September. And also it seems the login on its main page never wants to work. Not completely sold on its worth yet.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-routing-i-would-like-to-do-from-june-onwards&quot;&gt;The routing I would like to do from June onwards&lt;/h2&gt;
+&lt;p&gt;The workout is based on the video from &lt;a href=&quot;https://www.youtube.com/watch?v=AkGRzHgTj94&quot;&gt;GTN&lt;/a&gt;. The strength exercises are a combo of GTN videos and my physio’s recommendations.&lt;/p&gt;
+
+&lt;h3 id=&quot;swim&quot;&gt;Swim&lt;/h3&gt;
+&lt;p&gt;2 x 45 swim sessions&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;45 swimming not rest - Monday morning.
+could use pull boys&lt;/li&gt;
+  &lt;li&gt;Threshold 
+  400m&lt;br /&gt;
+  12-15x 100M - 15seconds. 
+  to 
+  10-12x 150M - 25 seconds rest
+  to
+  12 200M - 35 seconds rest.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;bike&quot;&gt;Bike&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Indoor thershold interval Or hill reps
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;15 min build wth 4-5 x30 seconds hard
+  &lt;code class=&quot;highlighter-rouge&quot;&gt;6 x5 minutes at Zone 4-5 with 2.5 min recovery spin&lt;/code&gt; to  &lt;code class=&quot;highlighter-rouge&quot;&gt;3x10 minute at Zone 4-5 with 5 min recovery spin&lt;/code&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Or hill reps
+  &lt;code class=&quot;highlighter-rouge&quot;&gt;4-5 x 2 min with 2 min recovery down hill&lt;/code&gt; at 5-8 % gradient&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;Sessions should be 1-1:15 hours&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Long bike ride
+    &lt;ul&gt;
+      &lt;li&gt;Nutrition ride: 3.5-4 hours riding a will&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;4x30 min @ zone 3 with 15 min spin&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;4x45 min @ zone 3 with 15min spin&lt;/code&gt;&lt;/p&gt;
+
+    &lt;p&gt;Add 30 min steady run after this!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;run&quot;&gt;Run&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Alternation of one of the following workouts&lt;/li&gt;
+  &lt;li&gt;Hill workout
+  	- 15 min hill job
+  	12-15 x 45sec reps
+  	recovery jog down&lt;/li&gt;
+  &lt;li&gt;Threshold workout
+  	- 15min easy jog
+  	14 x5 min at @ RPE 6-7
+  	2 min jog&lt;/li&gt;
+  &lt;li&gt;Fartlect&lt;/li&gt;
+  &lt;li&gt;Building pyramid&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;RPE 8/10
+   30 sec to sec 30 rest
+   45 sec to 45 sec rest&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Long Run
+ increase by 15 min over 4-5 weeks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If time allows - a brick bike&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Yoga - 1-2 times a week.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;strength-exercises&quot;&gt;Strength exercises&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;External shoulder rotation - with band&lt;/li&gt;
+  &lt;li&gt;Internal shoulder rotation - with band&lt;/li&gt;
+  &lt;li&gt;Reverse lunges x3 10-12 reps&lt;/li&gt;
+  &lt;li&gt;Theraband - the walking sideways and the forwards as per &lt;a href=&quot;https://www.youtube.com/watch?v=Em2U9mY60Oc&quot;&gt;video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;On leg box sitting - single leg squat on box&lt;/li&gt;
+  &lt;li&gt;Yoga ball - bridge (hip bridge leg curl)&lt;/li&gt;
+  &lt;li&gt;Stepping on the box with one leg - with good posture&lt;/li&gt;
+  &lt;li&gt;Nordic hamstring curls&lt;/li&gt;
+  &lt;li&gt;Bent over barbell row - for shoulders - aim to 3 sets of 8-12 reps.&lt;/li&gt;
+  &lt;li&gt;Calfs stretches - with heels hanging over the edge&lt;/li&gt;
+  &lt;li&gt;Press up&lt;/li&gt;
+  &lt;li&gt;Ab workout&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Let this journey continue! Keep pushing and keep doing the best I can! Thats what is the most important thing! (and don’t get injured!!)&lt;/p&gt;
+
+&lt;p&gt;Thank you for reading! 👋&lt;/p&gt;
+
+&lt;p&gt;If you notice any mistakes please contact me on &lt;a href=&quot;https://twitter.com/LTatakis&quot;&gt; Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;foot-notes-from-bike-fit-today-for-future-reference&quot;&gt;Foot notes: from Bike fit today for future reference&lt;/h4&gt;
+
+&lt;p&gt;Bike saddle height position: the tape that Bryan added is the min heigh I can have before my Knees starting hurting.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ironman/IMG_4784.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Saddle height boundaries discussed with Bryan&lt;/figcaption&gt;
+
+&lt;p&gt;Seat position: if I go to that lowest saddle height position I will need to move the seat to the position the tape has been placed. (the closest metal)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ironman/IMG_4787.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Saddle position boundaries discussed with Bryan&lt;/figcaption&gt;</content><author><name>LefterisTatakis</name></author><category term="blog" /><category term="ironman" /><category term="training" /><category term="update" /><category term="bike" /><category term="race" /><category term="tools" /><summary type="html">Ironman Frankfurt is no more on the plan for me.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/ironman/ironmanLogoItaly.png" /></entry><entry><title type="html">Kubernetes Node Recycle</title><link href="http://localhost:4000/kubernetesNodeRecycle/" rel="alternate" type="text/html" title="Kubernetes Node Recycle" /><published>2019-03-12T13:40:00+02:00</published><updated>2019-03-12T13:40:00+02:00</updated><id>http://localhost:4000/kubernetesNodeRecycle</id><content type="html" xml:base="http://localhost:4000/kubernetesNodeRecycle/">&lt;p&gt;Recycling nodes in Kubernetes is quite easy (given there is enough capacity to deal with the Pods of the old Node) 🤓&lt;/p&gt;
+
+&lt;p&gt;Commands the need to do:&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    kubectl cordon &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;NODE_NAME&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    kubectl drain &lt;span class=&quot;nt&quot;&gt;--ignore-daemonsets&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--delete-local-data&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;NODE_NAME&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    kubectl delete node &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;NODE_NAME&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Once the Kubernetes delete is done, if you use AWS EC2 instances to host the Nodes as we do, you will have to go to the ASG you have defined and then un-attach and destroy that EC2 instance.&lt;/p&gt;
+
+&lt;p&gt;For example, you could do the following command in a &lt;code class=&quot;highlighter-rouge&quot;&gt;for&lt;/code&gt; loop to upgrade your Kubernetes cluster with a new AMI image for your Node.&lt;/p&gt;
+
+&lt;p&gt;Thank you for reading! 👋&lt;/p&gt;
+
+&lt;p&gt;If you notice any mistakes please contact me on &lt;a href=&quot;https://twitter.com/LTatakis&quot;&gt; Twitter&lt;/a&gt;.&lt;/p&gt;</content><author><name>LefterisTatakis</name></author><category term="blog" /><category term="kubernetes" /><category term="commands" /><summary type="html">Recycling nodes in Kubernetes is quite easy (given there is enough capacity to deal with the Pods of the old Node) 🤓</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/kubernetes/nick.png" /></entry><entry><title type="html">10000ft of Machine Learning</title><link href="http://localhost:4000/machinelearningatgoogle/" rel="alternate" type="text/html" title="10000ft of Machine Learning" /><published>2019-03-01T17:30:00+02:00</published><updated>2019-03-01T17:30:00+02:00</updated><id>http://localhost:4000/machinelearningatgoogle</id><content type="html" xml:base="http://localhost:4000/machinelearningatgoogle/">&lt;p&gt;Today I went to a Machine learning training course at Google which was done by Datatonic. For me as a complete noobie in Machine Learning it was an opportunity to learn and freshen up my extremely limited and superficial knowledge gained by University Courses or hearing about pet projects of colleagues.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;iframe src=&quot;https://giphy.com/embed/WoWm8YzFQJg5i&quot; width=&quot;480&quot; height=&quot;351&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;https://giphy.com/gifs/cartoons-comics-sea-reading-WoWm8YzFQJg5i&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;We started with a brief and interesting talk on the basic principles and history of ML, but then all of the sudden it just jumped in the complete deep end telling us to run complicated code in Google Collab. I tried to get my head around one of the exercises with the help of the instructor.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;iframe src=&quot;https://giphy.com/embed/l0NwvLFprv6DrUXx6&quot; width=&quot;480&quot; height=&quot;480&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;https://giphy.com/gifs/afv-funny-fail-lol-l0NwvLFprv6DrUXx6&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;For me, the initial overview information and learning was the most valuable, and I would like to share some of it, for future me and anyone else interested.&lt;/p&gt;
+
+&lt;p&gt;Hopefully, I will have a crack at trying a project myself and get my head around the more complicated concepts. 🤔&lt;/p&gt;
+
+&lt;p&gt;(All the images used below are taken from the Datatonic slides)&lt;/p&gt;
+
+&lt;h2 id=&quot;a-1000ft-view-of-machine-learning&quot;&gt;A 1000ft view of Machine Learning&lt;/h2&gt;
+
+&lt;p&gt;Where I am at the moment and how I see machine learning is as:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ml/MLinAnImage.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Machine learning in an image&lt;/figcaption&gt;
+
+&lt;p&gt;You give it some data and it gives you a result. For now I am satisfied with that view on ML, however, I will have to a few books to get a bit more into the ML concepts.&lt;/p&gt;
+
+&lt;p&gt;My brother (and ML enthusiast) is currently planning to read “Deep Learning” by Ian Goodfellow, which has now been added to my reading list!&lt;/p&gt;
+
+&lt;h2 id=&quot;the-three-ml-categories&quot;&gt;The three ML categories&lt;/h2&gt;
+
+&lt;p&gt;What was discussed today in the workshop that Machine learning mainly falls in three big categorisations:&lt;/p&gt;
+
+&lt;p&gt;(1) Supervised learning&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Classification&lt;/li&gt;
+  &lt;li&gt;Regression (eg linear regression is also ML 🤓)&lt;/li&gt;
+  &lt;li&gt;Forcasting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ml/petclassification.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;We have different levels of classification&lt;/figcaption&gt;
+
+&lt;p&gt;(2) Unsupervised Learning&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Clustering&lt;/li&gt;
+  &lt;li&gt;Embedding&lt;/li&gt;
+  &lt;li&gt;Forcasting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(3) Optimasition - learn how to act by exploring the environment and receiving reward punishment.&lt;/p&gt;
+
+&lt;p&gt;An interesting point I found for the classifications, if you train them in absolute terms and tell them for example the world is only dog and cats, if you give it a fish it will say dog or cat. It good to add some uncertainty and concept of “I don’t know” in the model, a Bayesian approach (probabilistic).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ml/overviewOfMLProcess.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;How a neural network arrives to a result&lt;/figcaption&gt;
+
+&lt;h2 id=&quot;overview-of-process-to-create-a-ml-project&quot;&gt;Overview of process to create a ML project&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ml/neural.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Overview of the Machine learning project&lt;/figcaption&gt;
+
+&lt;h2 id=&quot;future-work-tools-to-have-a-play-with&quot;&gt;Future work: Tools to have a play with!&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tensorflow&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Apache Spark (throwback to uni and maybe try and figure out what we did in that Data Science course! 😬)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;spaCy&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- ## Adding ML in Media Companies
+
+You ML to identify
+
+- Pricing strategies - optimal prices, personal prices, dynamic prices
+- Churn prevention - identify subscribers likely to churn
+- Piracy Detection --&gt;
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;There is a lot to learn and its not an easy topic! 😂&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;iframe src=&quot;https://giphy.com/embed/1X61eW9DotM7TgBnOc&quot; width=&quot;480&quot; height=&quot;270&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;https://giphy.com/gifs/hyperrpg-game-reaction-1X61eW9DotM7TgBnOc&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Hopefully, I will be doing a project in ML soon to get my round it! 🤓 🤔&lt;/p&gt;
+
+&lt;p&gt;Thank you for reading! 👋&lt;/p&gt;
+
+&lt;p&gt;If you notice any mistakes please contact me on &lt;a href=&quot;https://twitter.com/LTatakis&quot;&gt; Twitter&lt;/a&gt;.&lt;/p&gt;</content><author><name>LefterisTatakis</name></author><category term="blog" /><category term="machine learning" /><category term="training" /><category term="overview" /><summary type="html">Today I went to a Machine learning training course at Google which was done by Datatonic. For me as a complete noobie in Machine Learning it was an opportunity to learn and freshen up my extremely limited and superficial knowledge gained by University Courses or hearing about pet projects of colleagues.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/eventsourcing.png" /></entry><entry><title type="html">Indident Reports - a template</title><link href="http://localhost:4000/incidentreports/" rel="alternate" type="text/html" title="Indident Reports - a template" /><published>2019-02-05T17:30:00+02:00</published><updated>2019-02-05T17:30:00+02:00</updated><id>http://localhost:4000/incidentreports</id><content type="html" xml:base="http://localhost:4000/incidentreports/">&lt;p&gt;Bad things happen, the important thing is how do we deal with them when they do, and the actions we take so they don’t happen again.&lt;/p&gt;
+
+&lt;p&gt;Today I would like to talk about Incident reports. A way for the technical / engineering staff to show the business we care about our platform, understand the problems caused and are willing to move ahead and be better next time. Showing the lessons learned from this mistake, in order to avoid getting bitten by it again.&lt;/p&gt;
+
+&lt;p&gt;I have had to do two of these in the last 16 months and are always welcomed by the business. It helps them under stand the issues we have, the impact on the customers / business and how we are working to correcting our wrongs.&lt;/p&gt;
+
+&lt;p&gt;The template below is circulated to the appropriate people in a Google Doc or Word documents prior to retrospectives or postmortems.  Hope its useful to you 🤓&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-template&quot;&gt;The Template&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Description&lt;/td&gt;
+      &lt;td&gt;An overview of the problem&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Date&lt;/td&gt;
+      &lt;td&gt;Date of problem&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Duration&lt;/td&gt;
+      &lt;td&gt;1min - hours - days it occured for&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Identified&lt;/td&gt;
+      &lt;td&gt;How did you find it&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Manifestation&lt;/td&gt;
+      &lt;td&gt;When doing X in the website the users experience Y&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Financial impact&lt;/td&gt;
+      &lt;td&gt;Outage caused 10 dollars worth of revenue loss&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Customer impact&lt;/td&gt;
+      &lt;td&gt;Bad customer experience because…&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Next steps&lt;/td&gt;
+      &lt;td&gt;How will we stop this from happening again?&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Business language explanation of how the problem manifested and why.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;What was the impact to the business / customers&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Root cause of failure&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;What make this bad thing happen?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Moving forwards&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;What will we do in the future to stop this?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Improve dev process?&lt;/li&gt;
+  &lt;li&gt;More tests?&lt;/li&gt;
+  &lt;li&gt;Better alerting? etc&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>LefterisTatakis</name></author><category term="blog" /><category term="incident" /><category term="template" /><category term="reporting" /><summary type="html">Bad things happen, the important thing is how do we deal with them when they do, and the actions we take so they don’t happen again.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/eventsourcing.png" /></entry><entry><title type="html">Event Sourcing - a case study</title><link href="http://localhost:4000/event-sourcing/" rel="alternate" type="text/html" title="Event Sourcing - a case study" /><published>2019-02-01T17:10:00+02:00</published><updated>2019-02-01T17:10:00+02:00</updated><id>http://localhost:4000/event-sourcing</id><content type="html" xml:base="http://localhost:4000/event-sourcing/">&lt;h1 id=&quot;event-sourcing&quot;&gt;Event sourcing&lt;/h1&gt;
+
+&lt;p&gt;In this blog I would like to talk about a solution we implemented early 2018 which used Event Sourcing. I have been meaning in making this blog post since the day we deployed the solution to production, so here goes!&lt;/p&gt;
+
+&lt;h2 id=&quot;what-was-the-problem-we-were-trying-to-solve&quot;&gt;What was the problem we were trying to solve&lt;/h2&gt;
+
+&lt;p&gt;We were retrieving prices for our B2B platform were we needed to retrieve and update the pricing for our ebooks. These prices needed to be retrieved from two files and the data values would change on irregular intervals and we would not be notified of any changes.&lt;/p&gt;
+
+&lt;p&gt;Therefore, we would need to daily poll the data source, to identify if any changes were made in the prices and then if so update our pricing.&lt;/p&gt;
+
+&lt;p&gt;The nature of the problem were were trying to solve was:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Complicated data input structure&lt;/li&gt;
+  &lt;li&gt;Variety of pricing models within the data structure&lt;/li&gt;
+  &lt;li&gt;Multiple sources of data&lt;/li&gt;
+  &lt;li&gt;Only update the prices that change between executions of the application (if any)&lt;/li&gt;
+  &lt;li&gt;Auditing capabilities would be nice&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The only requirement our side was that it would be TDD’ed (another great tool I was getting more hands on at the time).&lt;/p&gt;
+
+&lt;h2 id=&quot;why-are-we-using-this-pattern&quot;&gt;Why are we using this pattern&lt;/h2&gt;
+
+&lt;p&gt;I am sure other patterns and approaches may have been applicable for the problem we were trying to solve. However, this is what we felt met the criteria the business had set us and the technical benchmarks we had set ourselves.&lt;/p&gt;
+
+&lt;p&gt;This pattern brought a three vital benefits with it:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Identification&lt;/strong&gt; of differences each time we have a new event&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Accountability&lt;/strong&gt; and &lt;strong&gt;traceability&lt;/strong&gt; of changes for the business. This makes it a great feature to rely on because every time the business asks us:
+    &lt;ul&gt;
+      &lt;li&gt;When did this product get added?&lt;/li&gt;
+      &lt;li&gt;When did the price change?&lt;/li&gt;
+      &lt;li&gt;Why was it removed?&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;We have answers for all those questions within seconds by just looking at the events.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;what-is-event-sourcing&quot;&gt;What is Event Sourcing&lt;/h1&gt;
+
+&lt;p&gt;Key entities within the pattern:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Command&lt;/strong&gt; is a request made to the system to do something.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;State&lt;/strong&gt;  is the current form the data has.  The application reconstructs an entity’s ( a concept within our event store) current state by replaying the events.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Event&lt;/strong&gt; is described as an action or change in the system, for example: a price change, a start of a new batch of prices or a product deletion. A key point about events is that they are immutable and can be stored using an append-only operation.&lt;/p&gt;
+
+&lt;p&gt;Finally, events should be defined in the Domain experts language in order to allow a representation of the system that matches the problem we are trying to solve. For example, types of Events we had were: ‘PRICE_ADDED’, ‘PRICE_UPDATED’, ‘PRICE_DELETED’.&lt;/p&gt;
+
+&lt;p&gt;The interface we used for event was:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;export interface Event {
+    name: string;
+    id: number;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;where depending on the event type it was we would add extra attributes, eg prices.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Projection&lt;/strong&gt; or materialised views are a generated current state of the system by replaying all the events in the system. We used this projection (table) to allow retrieval of the prices from other sources.&lt;/p&gt;
+
+&lt;p&gt;Given these key entities we describe above, we have the following key components that bring the pattern together and manipulate these entities:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;State Retriever&lt;/strong&gt; replays all the events that have come before this point (if any) and generates the latest state of the system.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Command Generator&lt;/strong&gt; receives the input data and the current state of the system, to generate the changes that need to be made to the system.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Command Handler:&lt;/strong&gt; given a specific type of command (a Handler) and the current &lt;code class=&quot;highlighter-rouge&quot;&gt;state&lt;/code&gt; to generate the event that will trigger this change. For example, in our example we have the ImportHandler that will decide whether or not to add/change/remove a price from our model.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Evolve:&lt;/strong&gt; The Evolver is the component that acts on the event through a series of Listeners. The listeners are classes that implements behaviours such as:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Saving the event down to the event store&lt;/li&gt;
+  &lt;li&gt;Deleting prices from the projections&lt;/li&gt;
+  &lt;li&gt;Modifying the projection&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;our-implementation-of-event-sourcing&quot;&gt;Our implementation of Event sourcing&lt;/h1&gt;
+
+&lt;figcaption class=&quot;caption&quot;&gt;An overview of our system&lt;/figcaption&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/eventsourcing.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The key component of the application that puts this pattern together is here:&lt;/p&gt;
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &lt;span class=&quot;c1&quot;&gt;// Going to start add prices process &lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;batchState&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;stateRetriever&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getCurrentBatchState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+    
+    &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;batchEvent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;BatchEvent&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;batchHandler&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;handle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'START_BATCH'&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;batchState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;batchState&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;BatchState&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;batchEvolver&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;evolve&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;batchState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;batchEvent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    
+    &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;commandGenerator&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;CommandGenerator&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;currentStates&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;stateRetriever&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getCurrentPriceState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+    
+    &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;commands&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;ImportPriceCommand&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;commandGenerator&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;generate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;prices&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;currentStates&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    
+    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;command&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;of&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;commands&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    		&lt;span class=&quot;c1&quot;&gt;// Check if current command has a current State. &lt;/span&gt;
+        &lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;currentStateForISBN&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;...&lt;/span&gt;
+    		&lt;span class=&quot;c1&quot;&gt;// if not instantiate &lt;/span&gt;
+    
+    		&lt;span class=&quot;c1&quot;&gt;// Generate appropriate event&lt;/span&gt;
+        &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;importEvent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;ImportEvent&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;importHandler&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;handle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;command&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;currentStates&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;currentStateForISBN&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]);&lt;/span&gt;
+    
+        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;importEvent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;continue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;currentStates&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;currentStateForISBN&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;importEvolver&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;evolve&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;currentStates&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;currentStateForISBN&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;importEvent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;catch&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    	&lt;span class=&quot;c1&quot;&gt;// error handling&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;finally&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    	&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;batchEvent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;BatchEvent&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;batchHandler&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;handle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'END_BATCH'&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;batchState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    	&lt;span class=&quot;kr&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;batchEvolver&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;evolve&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;batchState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;batchEvent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;How do we get the latest state? From the &lt;code class=&quot;highlighter-rouge&quot;&gt;StateRetriever&lt;/code&gt; of course!&lt;/p&gt;
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &lt;span class=&quot;kr&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;getCurrentPriceState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Promise&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ImportState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allEvents&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;ImportEvent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;databaseManager&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getAllImportEvents&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+            &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;states&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;ImportState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[];&lt;/span&gt;
+    
+            &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;event&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;of&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;allEvents&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;currentState&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;states&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;isbn&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;event&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;isbn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+                &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;currentState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                    &lt;span class=&quot;nx&quot;&gt;currentState&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                        &lt;span class=&quot;na&quot;&gt;isbn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;event&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;isbn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                        &lt;span class=&quot;na&quot;&gt;lastEventId&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                        &lt;span class=&quot;na&quot;&gt;accountPrices&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
+                    &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+                    &lt;span class=&quot;nx&quot;&gt;states&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;currentState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+                &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+                &lt;span class=&quot;nx&quot;&gt;currentState&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;importEvolver&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;evolve&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;currentState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;event&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+            &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;states&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;Import Price Evolver&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &lt;span class=&quot;kr&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;evolve&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;ImportState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;event&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;ImportEvent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Promise&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ImportState&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;isbn&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!==&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;event&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;isbn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;k&quot;&gt;throw&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'State and event isbns dont match!'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+            &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    
+            &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lastEventId&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!==&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;event&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;k&quot;&gt;throw&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'State and event lastEventId are out of sync!'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+            &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    
+            &lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;accountPrices&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;squashPrices&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;event&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;prices&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;accountPrices&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+            &lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lastEventId&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;event&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Key point&lt;/span&gt;
+    
+            &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;listener&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;of&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;listeners&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;kr&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;listener&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;notify&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;event&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+            &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    
+            &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;where &lt;code class=&quot;highlighter-rouge&quot;&gt;squarePrices&lt;/code&gt; merges all the events and returns the latest state for that event.&lt;/p&gt;
+
+&lt;p&gt;In the line&lt;/p&gt;
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &lt;span class=&quot;kr&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;listener&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;notify&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;event&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;one scenario would be to save the event down into the event store (MySQL database), therefore, the listener of was really simple, a were more &lt;strong&gt;Listeners&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &lt;span class=&quot;kr&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;notify&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;event&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;ImportEvent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Promise&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;void&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+         &lt;span class=&quot;kr&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;saveEvent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;event&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;the-learning-curve&quot;&gt;The learning curve&lt;/h2&gt;
+&lt;iframe src=&quot;https://giphy.com/embed/bEVKYB487Lqxy&quot; width=&quot;480&quot; height=&quot;264&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Event sourcing was  a completely different mindset than any other solution I had ever approached.&lt;/p&gt;
+
+&lt;p&gt;The concept of encoding the changes in events, and then in order to retrieve the answer we would have to reply all the events each time, took me a while to understand. Especially when it came to the projection.&lt;/p&gt;
+
+&lt;p&gt;What do you mean we have a current state of the data ( projection ) but in order to change the prices we don’t pull the data from there but we will have to replay the data?&lt;/p&gt;
+
+&lt;p&gt;Once I was able to get that concept into my head… I think I was finally there :)&lt;/p&gt;
+
+&lt;p&gt;There were a number of times I was thinking “wow we are over engineering this solution” and maybe we were. But the benefits of this solution and the learning experience of it were significant and invaluable.&lt;/p&gt;
+
+&lt;p&gt;The were a number of times I felt like this:&lt;/p&gt;
+&lt;iframe src=&quot;https://giphy.com/embed/NbgeJftsErO5q&quot; width=&quot;480&quot; height=&quot;380&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;benefits-we-are-seeing-now-that-we-are-using-it&quot;&gt;Benefits we are seeing now that we are using it&lt;/h2&gt;
+
+&lt;p&gt;Through the nature of the pattern and the approach we took, TDD, the maintenance of this repo over the last year has been extremely straight forward and hassle free.&lt;/p&gt;
+
+&lt;p&gt;Reporting to the product owners and key business stakeholders has been straight forward.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Well worth the learning curve&lt;/li&gt;
+  &lt;li&gt;Reliable audit log&lt;/li&gt;
+  &lt;li&gt;Its one of the most maintainable features we have.&lt;/li&gt;
+  &lt;li&gt;It was a great learning experience.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Would recommend if it fits your problem :)&lt;/p&gt;
+
+&lt;p&gt;As always if there is something I have got wrong please let me know on &lt;a href=&quot;https://twitter.com/LTatakis&quot;&gt; Twitter&lt;/a&gt;.&lt;/p&gt;</content><author><name>LefterisTatakis</name></author><category term="blog" /><category term="event sourcing" /><category term="node" /><category term="pattern" /><summary type="html">Event sourcing</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/eventsourcing.png" /></entry><entry><title type="html">Week 3 - Bike fit</title><link href="http://localhost:4000/week3ironman-bike-fit/" rel="alternate" type="text/html" title="Week 3 - Bike fit" /><published>2019-01-19T15:32:00+02:00</published><updated>2019-01-19T15:32:00+02:00</updated><id>http://localhost:4000/week3ironman-bike-fit</id><content type="html" xml:base="http://localhost:4000/week3ironman-bike-fit/">&lt;p&gt;This week’s highlight is the initial fitting of my Aero bars! As always, when it comes to bike fit, I go to &lt;a href=&quot;https://www.sportstechlab.com/&quot;&gt;sportstechlab&lt;/a&gt; to discuss what my goals are and how I want to do this.
+Given my current experience with aero bars ( 0 ) and flexibility ( not the best ) we decided to use aerobars as just a variation to place my body / hands during the long rides.
+I shouldn’t be aiming to be saving X amount of Watts due to this position, but to be able to just add variety to my body position during long rides.
+If I can just stay on the aerobars for 20% of the race that would be a huge benefit for my performance.&lt;/p&gt;
+
+&lt;p&gt;However, to achieve this &lt;strong&gt;its going to be a journey&lt;/strong&gt;. With multiple visits to Bryan to change and adjust my bike fit.&lt;/p&gt;
+
+&lt;p&gt;My flexibility and comfort over the next 2-3 months needs to significantly improve if I am to consider this bike position for race day. And I can assure you that needs a lot of work … 😳&lt;/p&gt;
+
+&lt;p&gt;For example, currently my nature body position on the aerobars is:
+&lt;img src=&quot;/assets/images/ironman/currentbikeposition.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;How I currently rest on the bike&lt;/figcaption&gt;
+
+&lt;p&gt;However, it has to become like this: 
+&lt;img src=&quot;/assets/images/ironman/desiredbikepos.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;What I need to be for race day&lt;/figcaption&gt;
+
+&lt;p&gt;That means my low back and hip muscles needs to strengthen and not be a tight!
+Which as anything in this journey is easier said that done! 😅&lt;/p&gt;
+
+&lt;p&gt;Added to all this, today I did 1:55min on the turbo … pfff… not so much fun.. after a certain point I need to start watching videos rather  than focusing on Zwift because my mind just can’t take it! 
+This is something I will have to work on, but that probably means more time on the turbo 🙈
+But what I would like to do when its less cold and likely to have ice on the road, to just do the training outside. Sitting on the turbo for 2-3 hours is just mental torture!&lt;/p&gt;</content><author><name>Lefteris Tatakis</name></author><category term="blog" /><category term="ironman" /><category term="training" /><category term="bike" /><summary type="html">This week’s highlight is the initial fitting of my Aero bars! As always, when it comes to bike fit, I go to sportstechlab to discuss what my goals are and how I want to do this. Given my current experience with aero bars ( 0 ) and flexibility ( not the best ) we decided to use aerobars as just a variation to place my body / hands during the long rides. I shouldn’t be aiming to be saving X amount of Watts due to this position, but to be able to just add variety to my body position during long rides. If I can just stay on the aerobars for 20% of the race that would be a huge benefit for my performance.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/ironman/currentbikeposition.jpg" /></entry><entry><title type="html">Week 2 - Ironman training</title><link href="http://localhost:4000/week2iromantraining/" rel="alternate" type="text/html" title="Week 2 - Ironman training" /><published>2019-01-13T19:32:00+02:00</published><updated>2019-01-13T19:32:00+02:00</updated><id>http://localhost:4000/week2iromantraining</id><content type="html" xml:base="http://localhost:4000/week2iromantraining/">&lt;p&gt;My main focus for these early months is the cycling, my key weakness. I would like to try and start enjoying the session as much as this:&lt;/p&gt;
+&lt;iframe src=&quot;https://giphy.com/embed/C429iD9jGChRm&quot; width=&quot;480&quot; height=&quot;269&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://giphy.com/gifs/funny-pictures-peter-sagan-C429iD9jGChRm&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It &lt;em&gt;might&lt;/em&gt; happen 😂 but we shall see… 😅&lt;/p&gt;
+
+&lt;p&gt;The highlight of this week was my first “long” session on the turbo, 
+1hour 35 min 😳 I am not sure how people do it… its not confortable!&lt;/p&gt;
+
+&lt;p&gt;In order to finish the session, I had to distract myself with Youtube videos to get past the pain of the last 10 min!
+Looking at the Zwift Grand Fondo program I am doing its only going up! With sessions over 3 hours on a turbo! 😱&lt;/p&gt;
+
+&lt;p&gt;The sessions this week were:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Monday morning swim&lt;/li&gt;
+  &lt;li&gt;Wednesday double cycling session. Was not planned, but as I was prepping for the Oxford Tri swim I found out the boiler was broken down at the pool! The Lead Coach joked about using wetsuits in the pool, as it was 25C. Personally did not fancy a cold pool on a January evening 😅 And did a bike session instead!&lt;/li&gt;
+  &lt;li&gt;Sunday 1:35 on Zwift and 5km run.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ironman/week2-training.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Training distribution&lt;/figcaption&gt;</content><author><name>Lefteris Tatakis</name></author><category term="blog" /><category term="ironman" /><category term="training" /><summary type="html">My main focus for these early months is the cycling, my key weakness. I would like to try and start enjoying the session as much as this:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/ironman/week2-training.png" /></entry><entry><title type="html">Kubernetes - Blue Green Deployment</title><link href="http://localhost:4000/greenbluedeployment/" rel="alternate" type="text/html" title="Kubernetes - Blue Green Deployment" /><published>2019-01-08T16:41:00+02:00</published><updated>2019-01-08T16:41:00+02:00</updated><id>http://localhost:4000/greenbluedeployment</id><content type="html" xml:base="http://localhost:4000/greenbluedeployment/">&lt;p&gt;Its only been a few weeks since using this strategy our production environment at Elsevier, and its already shown its value multiple times! I think its an awesome strategy!
+So… what it is?!&lt;/p&gt;
+
+&lt;p&gt;Before we start some quick terminology:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Blue deployment is the deployment currently in production&lt;/li&gt;
+  &lt;li&gt;Green deployment is the new release we want to make&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;overview---10000-ft-️&quot;&gt;Overview - 10000 ft ✈️&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Blue-green deployment&lt;/em&gt; is a strategy that allows you to switch deployments of your code with minimal, dare I say 0 down time.
+The code is versioned, we call the old code the blue deployment while the new one green. The versioning of the code ensures that the traffic is routed to the &lt;em&gt;old&lt;/em&gt; pods initially, until, we are confident that the new code is ready to be deployed! 
+Once we are happy that the &lt;code class=&quot;highlighter-rouge&quot;&gt;Green deployment&lt;/code&gt; is up and running, we switch the traffic and we delete the blue deployment.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/kubernetes/point2blue.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Starting point, traffic going to blue deployment&lt;/figcaption&gt;
+
+&lt;p align=&quot;center&quot;&gt;Voila! &lt;/p&gt;
+
+&lt;h2 id=&quot;the-problem-we-solved&quot;&gt;The problem we solved&lt;/h2&gt;
+&lt;p&gt;We noticed that in our Production system the initial 5-10 minutes of the new deployment was unstable, eg we saw old code showing between refreshes of the pages.
+This was because, until the new code was up and running we had both deployments of our code serving our customers, obviously causing instability and weird behavior.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Each release deployment is versioned.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/kubernetes/point2green.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Following successful green deployment traffic&lt;/figcaption&gt;
+
+&lt;h2 id=&quot;the-meat--of-it&quot;&gt;The meat 🥩 of it!&lt;/h2&gt;
+&lt;p&gt;The deployment YML looked like:&lt;/p&gt;
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;apiVersion&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;apps/v1beta1&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;kind&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Deployment&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;metadata&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;the-awesome-page-##VERSION##&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;spec&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;selector&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;matchLabels&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;the-awesome-page&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;##VERSION##&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;replicas&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;3&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;template&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;metadata&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;labels&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;na&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;the-awesome-page&lt;/span&gt;
+        &lt;span class=&quot;na&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;##VERSION##&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;spec&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;containers&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+      &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;the-awesome-page&lt;/span&gt;
+        &lt;span class=&quot;na&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;##IMAGE##&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;...&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The service of the application&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-YAML&quot;&gt;apiVersion: v1
+kind: Service
+metadata:
+  name: the-awesome-page
+spec:
+  ports:
+  - port: 80
+    name: http
+    targetPort: http
+  selector:
+    app: the-awesome-page
+    version: ##VERSION##
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;and the implementation strategy was done in the Jenkins pipeline step:&lt;/p&gt;
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;BLUEDEPLOYMENT&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;kubectl &lt;span class=&quot;nt&quot;&gt;--namespace&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;namespace&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt; get service &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;project&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-o&lt;/span&gt; json | jq &lt;span class=&quot;s1&quot;&gt;'.spec.selector.version'&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;kubernetes
+&lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;f &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;*&lt;/span&gt;.yml
+&lt;span class=&quot;k&quot;&gt;do
+    if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;service.yml&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;then
+        &lt;/span&gt;kubectl &lt;span class=&quot;nt&quot;&gt;--namespace&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;namespace&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt; apply &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;fi
+done
+&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; ..
+
+&lt;span class=&quot;nv&quot;&gt;READY&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;kubectl get deploy &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;project&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;-&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;buildTag&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-o&lt;/span&gt; json &lt;span class=&quot;nt&quot;&gt;--namespace&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;namespace&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt; | jq &lt;span class=&quot;s1&quot;&gt;'.status.conditions[] | select(.reason == &quot;MinimumReplicasAvailable&quot;) | .status'&lt;/span&gt; | tr &lt;span class=&quot;nt&quot;&gt;-d&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&quot;'&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;nv&quot;&gt;TIMEOUT&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;0
+&lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[[&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$READY&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;True&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$TIMEOUT&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-lt&lt;/span&gt; 30 &lt;span class=&quot;o&quot;&gt;]]&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do
+    &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;READY&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;kubectl get deploy &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;project&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;-&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;buildTag&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-o&lt;/span&gt; json &lt;span class=&quot;nt&quot;&gt;--namespace&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;namespace&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt; | jq &lt;span class=&quot;s1&quot;&gt;'.status.conditions[] | select(.reason == &quot;MinimumReplicasAvailable&quot;) | .status'&lt;/span&gt; | tr &lt;span class=&quot;nt&quot;&gt;-d&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&quot;'&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;The green blue deployment is not ready yet&quot;&lt;/span&gt;
+    sleep 10
+    &lt;span class=&quot;nv&quot;&gt;TIMEOUT&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;$((&lt;/span&gt;TIMEOUT &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;))&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;done
+
+&lt;/span&gt;kubectl &lt;span class=&quot;nt&quot;&gt;--namespace&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;namespace&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt; apply &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; ./kubernetes/service.yml
+&lt;span class=&quot;nv&quot;&gt;GREENDEPLOYMENT&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;kubectl &lt;span class=&quot;nt&quot;&gt;--namespace&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;namespace&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt; get service &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;project&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-o&lt;/span&gt; json | jq &lt;span class=&quot;s1&quot;&gt;'.spec.selector.version'&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-z&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$BLUEDEPLOYMENT&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$BLUEDEPLOYMENT&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$GREENDEPLOYMENT&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;then&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;c&quot;&gt;# try - we did this in case the old deployment was not there anymore for some reason&lt;/span&gt;
+        &lt;span class=&quot;nv&quot;&gt;BLUEDEPLOYMENT&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$BLUEDEPLOYMENT&lt;/span&gt; | tr &lt;span class=&quot;nt&quot;&gt;-d&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&quot;'&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;
+        kubectl delete deployment &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;project&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;-&lt;span class=&quot;nv&quot;&gt;$BLUEDEPLOYMENT&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--namespace&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;namespace&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;c&quot;&gt;# catch&lt;/span&gt;
+        &lt;span class=&quot;c&quot;&gt;# save log for exception&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;fi&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;details-of-the-implementation&quot;&gt;Details of the implementation&lt;/h2&gt;
+&lt;h3 id=&quot;retrieving-blue-version&quot;&gt;Retrieving Blue version&lt;/h3&gt;
+&lt;p&gt;First, we need to retrieve the version that is currently used in the &lt;code class=&quot;highlighter-rouge&quot;&gt;Blue deployment&lt;/code&gt;.
+The module that controls this routing is the &lt;code class=&quot;highlighter-rouge&quot;&gt;Service&lt;/code&gt; of our deployment in Kubernetes.
+We do this by asking Kubernetes to give us the current version of the deployment its using.&lt;/p&gt;
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;BLUEDEPLOYMENT&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;kubectl &lt;span class=&quot;nt&quot;&gt;--namespace&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;namespace&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt; get service &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;project&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-o&lt;/span&gt; json | jq &lt;span class=&quot;s1&quot;&gt;'.spec.selector.version'&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;yml-deployment-sequence&quot;&gt;YML Deployment Sequence&lt;/h3&gt;
+&lt;p&gt;Previously, our approach was to apply all the YML in one go, for example:&lt;/p&gt;
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;kubectl apply &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; ./
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;However, to get the benefit of this strategy we apply our &lt;code class=&quot;highlighter-rouge&quot;&gt;service.yml&lt;/code&gt; only once the rest of the deployment is up.
+This is because if we apply &lt;em&gt;all&lt;/em&gt; the YML at once the &lt;code class=&quot;highlighter-rouge&quot;&gt;Service&lt;/code&gt; will be overridden straight away, causing bigger problems than we are trying to solve!&lt;/p&gt;
+
+&lt;p&gt;Therefore, we initially  deploy the deployment and the ingresses:&lt;/p&gt;
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;kubectl &lt;span class=&quot;nt&quot;&gt;--namespace&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;namespace&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt; apply &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; ./kubernetes/deployment.yml
+kubectl &lt;span class=&quot;nt&quot;&gt;--namespace&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;namespace&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt; apply &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; ./kubernetes/ingress.yml
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;and only once all the required deployments are in place, we deploy the service new service:&lt;/p&gt;
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;kubectl &lt;span class=&quot;nt&quot;&gt;--namespace&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;namespace&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt; apply &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; ./kubernetes/service.yml
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;ensuring-the-code-is-successfully--deployed&quot;&gt;Ensuring the code is successfully  deployed&lt;/h3&gt;
+&lt;p&gt;In order to check the code is there and ready to be served to our customers, we loop through the condition.
+The condition that is responsible for us knowing if we are ready is:&lt;/p&gt;
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;READY&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;kubectl get deploy &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;project&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;-&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-o&lt;/span&gt; json &lt;span class=&quot;nt&quot;&gt;--namespace&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;namespace&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt; | jq &lt;span class=&quot;s1&quot;&gt;'.status.conditions[] | select(.reason == &quot;MinimumReplicasAvailable&quot;) | .status'&lt;/span&gt; | tr &lt;span class=&quot;nt&quot;&gt;-d&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&quot;'&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;What are retrieving the Kubernetes information for the deployment we just made and make sure we have the &lt;code class=&quot;highlighter-rouge&quot;&gt;MinimumReplicasAvailable&lt;/code&gt; needed for this deployment.
+If this criterion is not met, we are not ready to route traffic through, so we wait and try again later ✌️.&lt;/p&gt;
+
+&lt;h3 id=&quot;deleting-of-the-old-deployment&quot;&gt;Deleting of the old deployment&lt;/h3&gt;
+&lt;p&gt;When implementing this we needed to be aware of two key possible issues:&lt;/p&gt;
+
+&lt;p&gt;1) The blue and green deployments are the same. This would occur if we are rerunning the Jenkins job that deployed the current version.&lt;/p&gt;
+
+&lt;p&gt;2) The old deployment does not exist anymore. This is not a scenario we should see in production, but in &lt;code class=&quot;highlighter-rouge&quot;&gt;dev&lt;/code&gt; where we frequently go and delete a deployment due to &lt;em&gt;X&lt;/em&gt; or &lt;em&gt;Y&lt;/em&gt; reason. We handle this by not failing the Jenkins build because we don’t want the Jenkins build to fail, as the latest deployment has been successful at this point!&lt;/p&gt;
+
+&lt;p&gt;Therefore, we added the comparison of the &lt;code class=&quot;highlighter-rouge&quot;&gt;blue&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;green&lt;/code&gt; version to combat point (1), and we created a try/catch block to ensure we don’t fail our build due to some behind the scenes manual work, for (2).&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Blue-green deployment is a strategy that allows minimal down time of your application. Its straightforward to implement and very valuable in my opinion.&lt;/p&gt;
+
+&lt;p&gt;Thank you for reading! 👋&lt;/p&gt;
+
+&lt;p&gt;If you notice any mistakes please contact me on &lt;a href=&quot;https://twitter.com/LTatakis&quot;&gt; Twitter&lt;/a&gt;.&lt;/p&gt;</content><author><name>Lefteris Tatakis</name></author><category term="blog" /><category term="kubernetes" /><category term="jenkins" /><summary type="html">Its only been a few weeks since using this strategy our production environment at Elsevier, and its already shown its value multiple times! I think its an awesome strategy! So… what it is?!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/kubernetes/point2blue.png" /></entry></feed>
